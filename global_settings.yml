@@ -1,4 +1,5 @@
 object_type: global_settings
 overrides:
-    "query.includeComments.general.*": "ON"
+    "query.includeComments.general.queryId" : True
+    "query.includeComments.general.userId" : True
     "query.factless.ignoreIncidentalFilter": "false"
