@@ -1,0 +1,4 @@
+object_type: global_settings
+overrides:
+    "query.includeComments.general.*": "ON"
+    "query.factless.ignoreIncidentalFilter": "false"
